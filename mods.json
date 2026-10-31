@@ -1159,11 +1159,6 @@
       "name": "MY90S 2.0"
     },
     {
-      "workshop": "3683154388",
-      "id": "ZombiePenetration_B4215;ZP_GGSPenetration_B4215",
-      "name": "Zombie Penetration [B42.15+]"
-    },
-    {
       "workshop": "3617854007",
       "id": "ArcheryNexus",
       "name": "Archery Nexus"
@@ -1172,6 +1167,11 @@
       "workshop": "3616176188",
       "id": "GaelGunStore_B42",
       "name": "[B42.20]GaelGunStore 1.6 - Firearms pack"
+    },
+    {
+      "workshop": "3683154388",
+      "id": "ZombiePenetration_B4215;ZP_GGSPenetration_B4215",
+      "name": "Zombie Penetration [B42.15+]"
     },
     {
       "workshop": "3389003300",
