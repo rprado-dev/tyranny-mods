@@ -180,7 +180,7 @@
     },
     {
       "workshop": "3827271522",
-      "id": "GarageWorks;GarageWorksSafeRemoval",
+      "id": "GarageWorks",
       "name": "GarageWorks [B42]"
     },
     {
@@ -355,7 +355,7 @@
     },
     {
       "workshop": "3439305933",
-      "id": "FunctionalGutters;FunctionalGuttersRemoved",
+      "id": "FunctionalGutters",
       "name": "[B42] Functional Gutters"
     },
     {
@@ -402,6 +402,11 @@
       "workshop": "3494878047",
       "id": "RightClickWatchToSetAlarm",
       "name": "[B41/B42] Right-click Watch To Set Alarm"
+    },
+    {
+      "workshop": "3423660713",
+      "id": "ModLoadOrderSorter_b42",
+      "name": "Mod Load Order Sorter [b42]"
     },
     {
       "workshop": "3386906181",
@@ -479,14 +484,9 @@
       "name": "NeatUI XP Drop [42.21]"
     },
     {
-      "workshop": "3423660713",
-      "id": "ModLoadOrderSorter_b42",
-      "name": "(added) ModLoadOrderSorter_b42"
-    },
-    {
       "workshop": "3567084868",
       "id": "ModManager",
-      "name": "(added) ModManager"
+      "name": "[B42] Mod Manager"
     },
     {
       "workshop": "3395171770",
@@ -595,7 +595,7 @@
     },
     {
       "workshop": "2256623447",
-      "id": "firearmmod;firearmmodbeta;firearmmodvanilla",
+      "id": "firearmmod",
       "name": "Firearms"
     },
     {
@@ -655,7 +655,7 @@
     },
     {
       "workshop": "3629835761",
-      "id": "Ladders42204;Ladders4220",
+      "id": "Ladders42204",
       "name": "Ladders?! B42.20 SP/MP (Unofficial)"
     },
     {
@@ -722,11 +722,6 @@
       "workshop": "3813194971",
       "id": "ViewpointAdvancedThrowables",
       "name": "Viewpoint - Advanced Throwables"
-    },
-    {
-      "workshop": "3641048285",
-      "id": "ItemCondition_KingEJ",
-      "name": "Item Condition Overlay (BUILD 42 STABLE)"
     },
     {
       "workshop": "3812864848",
@@ -1176,7 +1171,7 @@
     {
       "workshop": "3389003300",
       "id": "B42MoodleDescriptionsExpanded",
-      "name": "(added) B42MoodleDescriptionsExpanded"
+      "name": "[B42] Moodle Descriptions Expanded"
     },
     {
       "workshop": "3683976483",
@@ -2230,7 +2225,7 @@
     },
     {
       "workshop": "3722134990",
-      "id": "GunsOfMarz;MarzGuns",
+      "id": "GunsOfMarz",
       "name": "[42.21MP] GoM - Guns of Marz"
     },
     {
@@ -2335,7 +2330,7 @@
     },
     {
       "workshop": "3035031408",
-      "id": "GreenhouseTilesOnly;Greenhouse",
+      "id": "Greenhouse",
       "name": "Greenhouse Building Set"
     },
     {
@@ -2490,7 +2485,7 @@
     },
     {
       "workshop": "2959854619",
-      "id": "AlicesDuffelBagTweak;AlicesMultiWearVanilla",
+      "id": "AlicesDuffelBagTweak",
       "name": "Alice's DuffelBag Tweak"
     },
     {
@@ -2779,11 +2774,6 @@
       "name": "Safe User Login"
     },
     {
-      "workshop": "2969551071",
-      "id": "ReactiveSoundEvents",
-      "name": "Reactive Sound Events [LEGACY]"
-    },
-    {
       "workshop": "3782615823",
       "id": "AuDmodTrueAlertSoundsB42",
       "name": "True Alert Sounds"
@@ -2872,11 +2862,6 @@
       "workshop": "2873948227",
       "id": "filisbustertrucksliveriesas24",
       "name": "[B41/B42/MP]Company Liveries & loot for Filibuster Rhymes' Used Cars! F700 trucks"
-    },
-    {
-      "workshop": "3410989950",
-      "id": "TrueCrawl",
-      "name": "True Crawl 3.0 - Fixed [B42]"
     },
     {
       "workshop": "3813172420",
@@ -3004,13 +2989,13 @@
       "name": "Project Viewpoint QOL"
     },
     {
-      "workshop": "3423115544",
-      "id": "BetterFPS_B42",
-      "name": "BetterFPS_B42"
+      "workshop": "3810071828",
+      "id": "ImmersiveSnow",
+      "name": "Immersive Snow"
     },
     {
       "workshop": "3217685049",
-      "id": "PZKCarzoneWorkshop;PzkVanillaPlusCarPack",
+      "id": "PZKCarzoneWorkshop",
       "name": "PZK VLC (Vanilla look-like car pack)"
     },
     {
@@ -3087,11 +3072,6 @@
       "workshop": "3739168410",
       "id": "Obvious_Skill_Tapes",
       "name": "Obvious Skill Tapes - highlight useful VHS tapes"
-    },
-    {
-      "workshop": "3774789651",
-      "id": "SKITTLE_LongTermPreservation4220",
-      "name": "Long Term Preservation [42.20]"
     },
     {
       "workshop": "3432006285",
@@ -3854,11 +3834,6 @@
       "name": "Autotsar Tuning Atelier - Fjord Mustard '66 [B42]"
     },
     {
-      "workshop": "3434364211",
-      "id": "TrueCrawlStealth",
-      "name": "True Crawl - Stealth Mode"
-    },
-    {
       "workshop": "3399505732",
       "id": "SmallTownsSpawnLocations",
       "name": "[B42] Small Towns Spawn Locations"
@@ -4117,11 +4092,6 @@
       "workshop": "3815223174",
       "id": "ViewpointBetterTerrain",
       "name": "Viewpoint Better Terrain"
-    },
-    {
-      "workshop": "3810071828",
-      "id": "ImmersiveSnow",
-      "name": "(added) ImmersiveSnow"
     },
     {
       "workshop": "3816586790",
