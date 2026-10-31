@@ -1164,6 +1164,11 @@
       "name": "Zombie Penetration [B42.15+]"
     },
     {
+      "workshop": "3617854007",
+      "id": "ArcheryNexus",
+      "name": "Archery Nexus"
+    },
+    {
       "workshop": "3616176188",
       "id": "GaelGunStore_B42",
       "name": "[B42.20]GaelGunStore 1.6 - Firearms pack"
@@ -1185,7 +1190,7 @@
     },
     {
       "workshop": "3684025083",
-      "id": "JeevesPatches;JeevesPatches_AZ;JeevesPatches_DAMN;JeevesPatches_GGS;JeevesPatches_ISA;JeevesPatches_Moozic;JeevesPatches_PlayerStatus;JeevesPatches_Spongie;JeevesPatches_Tanker;JeevesPatches_Vanilla;JeevesPatches_ZRE",
+      "id": "JeevesPatches;JeevesPatches_AZ;JeevesPatches_DAMN;JeevesPatches_GGS;JeevesPatches_Moozic;JeevesPatches_Spongie;JeevesPatches_Tanker;JeevesPatches_Vanilla",
       "name": "Jeeve's Patches"
     },
     {
@@ -3052,11 +3057,6 @@
       "workshop": "3396867685",
       "id": "StarvingZombies",
       "name": "Starving Zombies [B42]"
-    },
-    {
-      "workshop": "3617854007",
-      "id": "ArcheryNexus",
-      "name": "Archery Nexus"
     },
     {
       "workshop": "2944740659",
