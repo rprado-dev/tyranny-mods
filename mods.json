@@ -1,0 +1,25 @@
+{
+  "server": "tyranny",
+  "gameBuild": "42.21",
+  "gameRamGB": 12,
+  "mods": [
+    { "workshop": "3619862853", "id": "ZombieBuddy", "name": "ZombieBuddy" },
+    { "workshop": "3809306528", "id": "Viewpoint", "name": "Project Viewpoint" },
+    { "workshop": "3810302175", "id": "PZVoxelStudioViewpoint", "name": "3D models for Viewpoint" },
+    { "workshop": "3508537032", "id": "NeatUI_Framework", "name": "NeatUI Framework" },
+    { "workshop": "3437629766", "id": "CleanUI", "name": "CleanUI" },
+    { "workshop": "3502080466", "id": "Neat_Crafting", "name": "Neat Crafting" },
+    { "workshop": "3536052310", "id": "Neat_Building", "name": "Neat Building" },
+    { "workshop": "2847184718", "id": "ProximityInventory", "name": "Proximity Inventory" },
+    { "workshop": "3290232938", "id": "SmarterStorage", "name": "Smarter Storage" },
+    { "workshop": "2866258937", "id": "MiniHealthPanel", "name": "Mini Health Panel" },
+    { "workshop": "3782920935", "id": "NicksInventorySelectionFix", "name": "Nick's Inventory Selection Fix" },
+    { "workshop": "3779561845", "id": "LGExtendedPlumbing", "name": "LG Extended Plumbing" },
+    { "workshop": "3579640010", "id": "STA_PryOpen", "name": "Pry Open" },
+    { "workshop": "3827497087", "id": "MinidoracatBagsFor42", "name": "Tactical Bags" },
+    { "workshop": "2896041179", "id": "errorMagnifier", "name": "errorMagnifier" },
+    { "workshop": "3077900375", "id": "ChuckleberryFinnAlertSystem", "name": "Mod Update and Alert System" },
+    { "workshop": "2503622437", "id": "SkillRecoveryJournal", "name": "Skill Recovery Journal" },
+    { "workshop": "3826426915", "id": "ProjectRPGExpanded", "name": "Survivor PDA" }
+  ]
+}
