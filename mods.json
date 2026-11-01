@@ -1579,11 +1579,6 @@
       "name": "'84 Cadillac Gage LAV-300"
     },
     {
-      "workshop": "2696986935",
-      "id": "BarricadedWorld",
-      "name": "Barricaded World - Extended Erosion [b41/b42]"
-    },
-    {
       "workshop": "2818577583",
       "id": "BLTRandomZombies",
       "name": "Random Zombies"
@@ -1612,11 +1607,6 @@
       "workshop": "2699828474",
       "id": "RebalancedPropMoving",
       "name": "Rebalanced Prop Moving"
-    },
-    {
-      "workshop": "2835852387",
-      "id": "Disassemble Container With Items",
-      "name": "Disassemble Container With Items"
     },
     {
       "workshop": "2674541310",
@@ -2084,11 +2074,6 @@
       "name": "[B41/B42]Repair Any Clothes New Version"
     },
     {
-      "workshop": "2792714394",
-      "id": "BetterTilesPicker",
-      "name": "Better Tiles Picker"
-    },
-    {
       "workshop": "2989871420",
       "id": "1992fiatFiorino;1992fiatFiorinoArcor;1992fiatFiorinoPan",
       "name": "Fiat Fiorino 1992 [B42.13 & B41]"
@@ -2182,11 +2167,6 @@
       "workshop": "3409527910",
       "id": "P4AlarmSyndrome",
       "name": "Alarm Syndrome"
-    },
-    {
-      "workshop": "2914616306",
-      "id": "ZombieHarvester",
-      "name": "Zombie Harvester"
     },
     {
       "workshop": "2873948227",
@@ -2447,11 +2427,6 @@
       "workshop": "3611100835",
       "id": "LIAZ 300",
       "name": "LIAZ 300"
-    },
-    {
-      "workshop": "3771638611",
-      "id": "FancyHandworkB42_19",
-      "name": "Fancy Handwork B42.20"
     },
     {
       "workshop": "3816442251",
