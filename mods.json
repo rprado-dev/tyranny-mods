@@ -554,11 +554,6 @@
       "name": "Point Blank"
     },
     {
-      "workshop": "3389050623",
-      "id": "AmmoLootDropB42;AmmoLootDropBox;AmmoLootDropCarton;AmmoLootDropMagazine;AmmoLootDropWeapon",
-      "name": "Ammo Loot Drop · Zombies Drop Ammo B42"
-    },
-    {
       "workshop": "3816324722",
       "id": "AttachmentsUI",
       "name": "Attachments UI [B42]"
@@ -3002,11 +2997,6 @@
       "workshop": "3405249655",
       "id": "CraftConcrete",
       "name": "[B42] Craft Concrete"
-    },
-    {
-      "workshop": "2857273296",
-      "id": "AshenMPRanking",
-      "name": "Ashen MP Ranking"
     },
     {
       "workshop": "3494108029",
