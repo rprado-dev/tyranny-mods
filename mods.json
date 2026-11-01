@@ -1120,7 +1120,7 @@
     },
     {
       "workshop": "3684025083",
-      "id": "JeevesPatches;JeevesPatches_AZ;JeevesPatches_DAMN;JeevesPatches_GGS;JeevesPatches_Spongie;JeevesPatches_Tanker;JeevesPatches_Vanilla",
+      "id": "JeevesPatches_AZ;JeevesPatches_DAMN;JeevesPatches_GGS;JeevesPatches_Spongie;JeevesPatches_Tanker;JeevesPatches_Vanilla",
       "name": "Jeeve's Patches"
     },
     {
@@ -4042,6 +4042,11 @@
       "workshop": "3406622334",
       "id": "isg85countach",
       "name": "'85 Lamborghini Countach"
+    },
+    {
+      "workshop": "3695510332",
+      "id": "CharacterOutfitPresetFix",
+      "name": "[42.13+] Character Outfit Preset Fix"
     }
   ]
 }
