@@ -3153,5 +3153,37 @@
       "id": "CharacterOutfitPresetFix",
       "name": "[42.13+] Character Outfit Preset Fix"
     }
+  ],
+  "startupMods": [
+    "ZombieBuddy",
+    "Viewpoint",
+    "AliceGear",
+    "ATakeABathAndShowerDepthMap",
+    "TakeABathAndShowerNew",
+    "FWOBenchPressTreadmill",
+    "damnlib",
+    "Ladders42204",
+    "CyesPushDoors",
+    "BicycleMod",
+    "Bandits2",
+    "TrueActionsDancing",
+    "ProjectArcade",
+    "WayMoreCars",
+    "tsarslib",
+    "Military_Tool_Kit",
+    "Horse",
+    "B42FRUsedCarsAnimAlpha",
+    "TacHold",
+    "TacHold Pistol",
+    "ClimbDownRope",
+    "amclub",
+    "RPActions",
+    "Run and Reload",
+    "SkateboardMod",
+    "TableSaw",
+    "SaucedCarts",
+    "KickScooterMod",
+    "ViewpointAdvancedMovement",
+    "[COS] Clipping animation Fix"
   ]
 }
