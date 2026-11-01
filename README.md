@@ -28,3 +28,4 @@ Order matters: `mods` is the server's load order. Keep ZombieBuddy first, then V
 | `mods[].workshop` | Steam Workshop item ID. |
 | `mods[].id` | Mod ID from the item's `mod.info`; what goes in the server's `Mods=` line. |
 | `mods[].name` | Name shown to players in the app. |
+| `startupMods` | Mod IDs the app enables in each player's main menu (`Zomboid\mods\default.txt`). The game reads animation clips only from mods active when it starts, so these are the mods that ship animations (`media/anims_X`) plus what they require, in load order. Without them, Horse Mod's horses show as balls. |
