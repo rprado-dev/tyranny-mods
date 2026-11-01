@@ -429,11 +429,6 @@
       "name": "Gyde's Trait Magazines"
     },
     {
-      "workshop": "3403870858",
-      "id": "LifestyleHobbies",
-      "name": "Lifestyle: Hobbies"
-    },
-    {
       "workshop": "2744797858",
       "id": "P4VideoMeister",
       "name": "Video Meister"
@@ -729,34 +724,9 @@
       "name": "Viewpoint True Ballistics"
     },
     {
-      "workshop": "3633882960",
-      "id": "TMMMB42.13+",
-      "name": "True Moozic Mixtape Megapack B42+"
-    },
-    {
       "workshop": "3662973331",
       "id": "TM_PopCulture",
       "name": "True Moozic: Pop Culture"
-    },
-    {
-      "workshop": "3632610172",
-      "id": "TrueMoozic;TMMumble",
-      "name": "True Moozic B42+  The Music System for Project Zomboid (SP/MP)"
-    },
-    {
-      "workshop": "3640806810",
-      "id": "TM_Metallica",
-      "name": "True Moozic B42.13 - Metallica"
-    },
-    {
-      "workshop": "3658745907",
-      "id": "TM_TrueMooZicGunsNRosesUseYourIllus",
-      "name": "True MooZic: Guns N’ Roses - Use Your Illusion I"
-    },
-    {
-      "workshop": "3658781942",
-      "id": "TM_TrueMooZicMichaelJacksonThriller",
-      "name": "True MooZic: Michael Jackson - Thriller (B42)"
     },
     {
       "workshop": "3615832618",
@@ -767,11 +737,6 @@
       "workshop": "3687246541",
       "id": "vhsmusicpack1",
       "name": "Addon [M&S] VHS Music Clip Pack - Lore Friendly"
-    },
-    {
-      "workshop": "3658443845",
-      "id": "TM_TrueMooZicMichaelJacksonOfftheWa",
-      "name": "True MooZic: Michael Jackson - Off the Wall (B42)"
     },
     {
       "workshop": "2625625421",
@@ -844,16 +809,6 @@
       "name": "[B42MP] Frockin Splendor! Vol.1"
     },
     {
-      "workshop": "3538353228",
-      "id": "LBB42",
-      "name": "Legendary Backpacks"
-    },
-    {
-      "workshop": "3409143790",
-      "id": "SapphCooking_B42",
-      "name": "Sapph's Cooking [B42+]"
-    },
-    {
       "workshop": "3635394848",
       "id": "GanydeBielovzki's Frockin Splendor! Vol.5",
       "name": "[B42MP] Frockin Splendor! Vol.5"
@@ -879,11 +834,6 @@
       "name": "[B42MP] Frockin Wiseguys!"
     },
     {
-      "workshop": "3558839307",
-      "id": "LDB42",
-      "name": "Legendary DuffelBag"
-    },
-    {
       "workshop": "3560352772",
       "id": "LSB42",
       "name": "Legendary Satchel"
@@ -892,11 +842,6 @@
       "workshop": "3675741487",
       "id": "[J&G] Umbrella Corp Uniform",
       "name": "[J&G] Umbrella Corp Uniform [B42/41]"
-    },
-    {
-      "workshop": "3552050880",
-      "id": "LFB42",
-      "name": "Legendary Fanny Pack"
     },
     {
       "workshop": "3443982326",
@@ -917,11 +862,6 @@
       "workshop": "3270190005",
       "id": "DetailedFootwear",
       "name": "Detailed Footwear"
-    },
-    {
-      "workshop": "3470478700",
-      "id": "CerberusPack",
-      "name": "Cerberus Pack [B41/B42MP]"
     },
     {
       "workshop": "3671351750",
@@ -947,11 +887,6 @@
       "workshop": "3369825662",
       "id": "[J&G] Caution Pack",
       "name": "[J&G] Caution Uniform [B42/41]"
-    },
-    {
-      "workshop": "3322631319",
-      "id": "PompCollectibles",
-      "name": "Collections"
     },
     {
       "workshop": "3497172953",
@@ -1185,13 +1120,8 @@
     },
     {
       "workshop": "3684025083",
-      "id": "JeevesPatches;JeevesPatches_AZ;JeevesPatches_DAMN;JeevesPatches_GGS;JeevesPatches_Moozic;JeevesPatches_Spongie;JeevesPatches_Tanker;JeevesPatches_Vanilla",
+      "id": "JeevesPatches;JeevesPatches_AZ;JeevesPatches_DAMN;JeevesPatches_GGS;JeevesPatches_Spongie;JeevesPatches_Tanker;JeevesPatches_Vanilla",
       "name": "Jeeve's Patches"
-    },
-    {
-      "workshop": "3655692755",
-      "id": "LinkinParkGreatestHits2012",
-      "name": "Linkin Park - Greatest Hits (2012) / B42 True Music"
     },
     {
       "workshop": "3683185414",
@@ -2374,11 +2304,6 @@
       "name": "'76 Chrysler New Yorker"
     },
     {
-      "workshop": "2244879881",
-      "id": "ExploringTime",
-      "name": "Soul Filcher's Exploring Time"
-    },
-    {
       "workshop": "3770890864",
       "id": "91lexusLS400",
       "name": "'91 Lexus LS400"
@@ -2552,11 +2477,6 @@
       "workshop": "2799152712",
       "id": "sDayZ.MinimalDisplayBars42",
       "name": "sDayZ - New Icons And Preset"
-    },
-    {
-      "workshop": "2689863681",
-      "id": "vacsdrinks",
-      "name": "Vac's Drinks [B41/B42]"
     },
     {
       "workshop": "3457132019",
@@ -2972,11 +2892,6 @@
       "workshop": "3811256204",
       "id": "ProjectViewpointQOL",
       "name": "Project Viewpoint QOL"
-    },
-    {
-      "workshop": "3810071828",
-      "id": "ImmersiveSnow",
-      "name": "Immersive Snow"
     },
     {
       "workshop": "3217685049",
@@ -3487,11 +3402,6 @@
       "workshop": "2706426546",
       "id": "DangerZoneDualWield",
       "name": "Danger Zone Dual Wield"
-    },
-    {
-      "workshop": "2752664795",
-      "id": "PompsItems",
-      "name": "Pomp's Items"
     },
     {
       "workshop": "3053929034",
@@ -4072,11 +3982,6 @@
       "workshop": "3815223174",
       "id": "ViewpointBetterTerrain",
       "name": "Viewpoint Better Terrain"
-    },
-    {
-      "workshop": "3816586790",
-      "id": "ImmersiveSnowViewpoint",
-      "name": "Immersive Snow - Viewpoint"
     },
     {
       "workshop": "2971486846",
