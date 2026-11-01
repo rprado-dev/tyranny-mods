@@ -64,11 +64,6 @@
       "name": "ST Additions - Pry Open (A Crowbar Mod)"
     },
     {
-      "workshop": "3827497087",
-      "id": "MinidoracatBagsFor42",
-      "name": "[B42] Tactical Bags by Minidoracat"
-    },
-    {
       "workshop": "3077900375",
       "id": "ChuckleberryFinnAlertSystem",
       "name": "Mod Update and Alert System"
@@ -104,24 +99,9 @@
       "name": "Viewpoint Fixes"
     },
     {
-      "workshop": "3740052292",
-      "id": "CompanionDogs",
-      "name": "Companion Dogs [ALPHA]"
-    },
-    {
-      "workshop": "3791294616",
-      "id": "CompanionCat",
-      "name": "CD: Cats"
-    },
-    {
       "workshop": "3658756227",
       "id": "DBD_NearbyAnimals",
       "name": "[B42] Nearby Animals v1.0.7 - DBD"
-    },
-    {
-      "workshop": "3543229299",
-      "id": "PROJECTRVInterior42",
-      "name": "[B42]Project RV Interior"
     },
     {
       "workshop": "3378285185",
@@ -137,11 +117,6 @@
       "workshop": "3006882690",
       "id": "KAMER_RepairWall",
       "name": "[B41&B42] Repair Wall"
-    },
-    {
-      "workshop": "3618427553",
-      "id": "RVInteriorExpansion",
-      "name": "RV Interior Expansion [B42]"
     },
     {
       "workshop": "3784677588",
@@ -199,21 +174,6 @@
       "name": "Vanilla Outfits Expanded"
     },
     {
-      "workshop": "3470422050",
-      "id": "KATTAJ1_ClothesCore",
-      "name": "KATTAJ1 Clothes Core [B41/B42MP]"
-    },
-    {
-      "workshop": "3470426196",
-      "id": "KATTAJ1_Military",
-      "name": "KATTAJ1 Military Pack [B41/B42MP]"
-    },
-    {
-      "workshop": "3421271152",
-      "id": "1VCESTANDARD",
-      "name": "Vanilla Clothing Expansion"
-    },
-    {
       "workshop": "3420478458",
       "id": "BetterFlashlightsFixed",
       "name": "[B42.21] Better Flashlights"
@@ -224,11 +184,6 @@
       "name": "[B42] Pack Mule"
     },
     {
-      "workshop": "3457969588",
-      "id": "[J&G] SWAT Uniform",
-      "name": "[J&G] SWAT Uniform [B42/41]"
-    },
-    {
       "workshop": "3490188370",
       "id": "Project_Cook;Project_Cook_Pixel_Icon_Pack",
       "name": "Project Cook [B42]"
@@ -237,11 +192,6 @@
       "workshop": "3402516345",
       "id": "B42Survival",
       "name": "[B42] Survival"
-    },
-    {
-      "workshop": "3650168851",
-      "id": "B42Horticulture",
-      "name": "[B42] Horticulture"
     },
     {
       "workshop": "3444499190",
@@ -634,11 +584,6 @@
       "name": "Reactive Sound Events"
     },
     {
-      "workshop": "3625933422",
-      "id": "FixedLightOnBeltAF",
-      "name": "[B42] Simple Belt Flashlight! (Fix for angled flashlight)"
-    },
-    {
       "workshop": "2714198296",
       "id": "NoLighterNeeded",
       "name": "[B42] I Don't Need A Lighter"
@@ -744,16 +689,6 @@
       "name": "Containers!"
     },
     {
-      "workshop": "2879745353",
-      "id": "melos_tiles_for_miles_pack",
-      "name": "Melos Tiles for Miles Tilepack"
-    },
-    {
-      "workshop": "3346506593",
-      "id": "Erikas_Tiles",
-      "name": "Erika's tiles"
-    },
-    {
       "workshop": "2999595757",
       "id": "WallpapersB42;WallpapersBM",
       "name": "Wallpapers and More Paint Options [B41|B42]"
@@ -784,189 +719,14 @@
       "name": "Vanilla Gear Expanded"
     },
     {
-      "workshop": "1962761540",
-      "id": "ArmoredVestsPatch;ArmoredVests",
-      "name": "Armored Vests (41/B42)"
-    },
-    {
-      "workshop": "3798146388",
-      "id": "GanydeBielovzki's Frockin Backstage!",
-      "name": "(added) GanydeBielovzki's Frockin Backstage!"
-    },
-    {
-      "workshop": "3411888105",
-      "id": "GanydeBielovzki's Frockin Splendor! Vol.2",
-      "name": "[B42MP] Frockin Splendor! Vol.2"
-    },
-    {
-      "workshop": "3616536783",
-      "id": "TombWardrobeALTVanilla",
-      "name": "Tomb's Wardrobe - Alternative"
-    },
-    {
-      "workshop": "3307376332",
-      "id": "GanydeBielovzki's Frockin Splendor!",
-      "name": "[B42MP] Frockin Splendor! Vol.1"
-    },
-    {
-      "workshop": "3635394848",
-      "id": "GanydeBielovzki's Frockin Splendor! Vol.5",
-      "name": "[B42MP] Frockin Splendor! Vol.5"
-    },
-    {
-      "workshop": "3431256608",
-      "id": "GanydeBielovzki's Frockin Splendor! Vol.3",
-      "name": "[B42MP] Frockin Splendor! Vol.3"
-    },
-    {
-      "workshop": "3453676250",
-      "id": "GanydeBielovzki's Frockin Shirts n Ties",
-      "name": "[B42MP] Frockin Shirts & Ties!"
-    },
-    {
-      "workshop": "3475347500",
-      "id": "GanydeBielovzki's Frockin Splendor! Vol.4",
-      "name": "[B42MP] Frockin Splendor! Vol.4"
-    },
-    {
-      "workshop": "3538760023",
-      "id": "GanydeBielovzki's Frockin Wiseguys",
-      "name": "[B42MP] Frockin Wiseguys!"
-    },
-    {
-      "workshop": "3560352772",
-      "id": "LSB42",
-      "name": "Legendary Satchel"
-    },
-    {
-      "workshop": "3675741487",
-      "id": "[J&G] Umbrella Corp Uniform",
-      "name": "[J&G] Umbrella Corp Uniform [B42/41]"
-    },
-    {
-      "workshop": "3443982326",
-      "id": "[J&G] Trauma Responder Uniform",
-      "name": "[J&G] Trauma Responder Uniform [B42/41]"
-    },
-    {
-      "workshop": "3299457564",
-      "id": "[J&G] Desert Multicam Uniform",
-      "name": "[J&G] Desert Uniform [B42/41]"
-    },
-    {
-      "workshop": "3315302991",
-      "id": "[J&G] Black Multicam Uniform",
-      "name": "[J&G] Black Multicam Uniform [B42/41]"
-    },
-    {
-      "workshop": "3270190005",
-      "id": "DetailedFootwear",
-      "name": "Detailed Footwear"
-    },
-    {
-      "workshop": "3671351750",
-      "id": "HardwoodsTurnoutGear",
-      "name": "Hardwood's FireFighter's Finery"
-    },
-    {
-      "workshop": "3616192072",
-      "id": "[J&G] MARPAT Camo Uniform",
-      "name": "[J&G] MARPAT Camo Uniform [B42/41]"
-    },
-    {
-      "workshop": "3470485566",
-      "id": "LynxPack",
-      "name": "Lynx Pack [B41/B42MP]"
-    },
-    {
-      "workshop": "3206579556",
-      "id": "[J&G] Flecktarn Uniform",
-      "name": "[J&G] Flecktarn Gear [B42/41]"
-    },
-    {
-      "workshop": "3369825662",
-      "id": "[J&G] Caution Pack",
-      "name": "[J&G] Caution Uniform [B42/41]"
-    },
-    {
-      "workshop": "3497172953",
-      "id": "[J&G] Neon Vandals Uniform",
-      "name": "[J&G] Neon Vandals Uniform [B42/41]"
-    },
-    {
-      "workshop": "3470491629",
-      "id": "PNV",
-      "name": "Night Vision Googles [B41/B42MP]"
-    },
-    {
-      "workshop": "3454414190",
-      "id": "AccCamos;AccCamosPeriodPack",
-      "name": "[B42] Immersive Camos"
-    },
-    {
-      "workshop": "3303746488",
-      "id": "[J&G] Alpine Multicam Uniform",
-      "name": "[J&G] Alpine Uniform [B42/41]"
-    },
-    {
-      "workshop": "3309971624",
-      "id": "[J&G] Forest Multicam Uniform",
-      "name": "[J&G] Forest Multicam Uniform [B42/41]"
-    },
-    {
       "workshop": "3439247001",
       "id": "MilitaryPonchosRELOADED",
       "name": "Military Ponchos: RELOADED"
     },
     {
-      "workshop": "3654107996",
-      "id": "[J&G] British DPM Uniform",
-      "name": "[J&G] British DPM Uniform [B42/41]"
-    },
-    {
-      "workshop": "3659605156",
-      "id": "kentuckynationalguardprofessionsgoose",
-      "name": "Goose's Kentucky National Guard Professions [B42 Stable] [SP]"
-    },
-    {
-      "workshop": "3276134387",
-      "id": "[J&G] XKU Uniform",
-      "name": "[J&G] XKU Uniform [B42/41]"
-    },
-    {
-      "workshop": "3660235667",
-      "id": "DeltaSeries",
-      "name": "Ash's Delta Holster Vanilla Replacer"
-    },
-    {
       "workshop": "3649092715",
       "id": "zReArmorPackBYKB42",
       "name": "zRe ARMOR PACK by kERHUS [B42.13+]"
-    },
-    {
-      "workshop": "3471936625",
-      "id": "zReApoPonchosB42",
-      "name": "Zre Apo Ponchos B42"
-    },
-    {
-      "workshop": "3455979767",
-      "id": "TACPDM2",
-      "name": "Tac Delta: Shoulder Holster"
-    },
-    {
-      "workshop": "3689973240",
-      "id": "Bubbs_FRFC",
-      "name": "Fireproof Firefighter Clothing"
-    },
-    {
-      "workshop": "3682674886",
-      "id": "contactlensesb42",
-      "name": "[B42] Functional Contact Lenses"
-    },
-    {
-      "workshop": "3322066592",
-      "id": "AatheomEMVFSM",
-      "name": "Every Missing Vanilla Food Static Model"
     },
     {
       "workshop": "3626823538",
@@ -987,11 +747,6 @@
       "workshop": "3487450124",
       "id": "FeedThatAnimalMP",
       "name": "Feed That Animal!"
-    },
-    {
-      "workshop": "3589560764",
-      "id": "SnackTime89",
-      "name": "SnackTime 89 [B42 SP/MP]"
     },
     {
       "workshop": "3268487204",
@@ -1044,16 +799,6 @@
       "name": "MoodleFramework Safety Patch"
     },
     {
-      "workshop": "3640602763",
-      "id": "Animal_Essentials",
-      "name": "[BETA] Animal Essentials [B42.14+]"
-    },
-    {
-      "workshop": "3640592525",
-      "id": "KITTYOWO",
-      "name": "[BETA] Pawject Meowboid [MP] [B42.14]"
-    },
-    {
       "workshop": "3653913180",
       "id": "Karas Zone Selector API",
       "name": "Karas Zone Selector API For B42"
@@ -1062,11 +807,6 @@
       "workshop": "3685672179",
       "id": "FuctionalTV",
       "name": "[B42] Functional TV Movies & Series - Framework"
-    },
-    {
-      "workshop": "3656507478",
-      "id": "CYBERDOGTEMPLATE",
-      "name": "Cyber Doggie [CUSTOM ANIMAL TEMPLATE]"
     },
     {
       "workshop": "3682652500",
@@ -1084,23 +824,8 @@
       "name": "[B42] Extended Battery Life"
     },
     {
-      "workshop": "3515752079",
-      "id": "My90s",
-      "name": "MY90S 2.0"
-    },
-    {
-      "workshop": "3617854007",
-      "id": "ArcheryNexus",
-      "name": "Archery Nexus"
-    },
-    {
-      "workshop": "3616176188",
-      "id": "GaelGunStore_B42",
-      "name": "[B42.20]GaelGunStore 1.6 - Firearms pack"
-    },
-    {
       "workshop": "3683154388",
-      "id": "ZombiePenetration_B4215;ZP_GGSPenetration_B4215",
+      "id": "ZombiePenetration_B4215",
       "name": "Zombie Penetration [B42.15+]"
     },
     {
@@ -1114,13 +839,8 @@
       "name": "[42.20 STABLE] Moodle Descriptions Expanded"
     },
     {
-      "workshop": "3682654638",
-      "id": "CCOriginSeries",
-      "name": "[Card Collectibles] Pokemon Origins & Gym Series"
-    },
-    {
       "workshop": "3684025083",
-      "id": "JeevesPatches_AZ;JeevesPatches_DAMN;JeevesPatches_GGS;JeevesPatches_Spongie;JeevesPatches_Tanker;JeevesPatches_Vanilla",
+      "id": "JeevesPatches_AZ;JeevesPatches_DAMN;JeevesPatches_Spongie;JeevesPatches_Tanker;JeevesPatches_Vanilla",
       "name": "Jeeve's Patches"
     },
     {
@@ -1154,19 +874,9 @@
       "name": "Video Game Consoles Addon - More NES Games B42 Reupload"
     },
     {
-      "workshop": "3423725989",
-      "id": "VGC_Addon_SEGAGames",
-      "name": "Video Game Consoles Addon - More SEGA Games"
-    },
-    {
       "workshop": "3675740871",
       "id": "DeadMansDossier",
       "name": "Dead Man's Dossier [B42][MP]"
-    },
-    {
-      "workshop": "3418352842",
-      "id": "VGC_Addon_GameBoyGames",
-      "name": "Video Game Consoles Addon - More Game Boy Games Reupload for B42"
     },
     {
       "workshop": "3360392628",
@@ -1189,11 +899,6 @@
       "name": "Authentic Z"
     },
     {
-      "workshop": "3666137359",
-      "id": "Roccos_Tiles",
-      "name": "Rocco's Tiles"
-    },
-    {
       "workshop": "3496507146",
       "id": "muldraughmilitarybaseas24",
       "name": "[B42&MP]Fort Preston"
@@ -1202,11 +907,6 @@
       "workshop": "3585472912",
       "id": "beek_muldraugh_firedept",
       "name": "Muldraugh Fire Department [B42]"
-    },
-    {
-      "workshop": "3673222028",
-      "id": "WMTBoat",
-      "name": "West Point Military Tugboat B42"
     },
     {
       "workshop": "3656054533",
@@ -1299,11 +999,6 @@
       "name": "Star Wars VHS: Original Trilogy (Episode IV, V & VI)"
     },
     {
-      "workshop": "3689877181",
-      "id": "TurboGame",
-      "name": "Turbo Game! (Mini Games for The Handheld)"
-    },
-    {
       "workshop": "3426448380",
       "id": "stanks_suicide",
       "name": "Immersive Suicide [B42/B41]"
@@ -1362,6 +1057,11 @@
       "workshop": "3690308807",
       "id": "VehicleGroundGuard",
       "name": "Vehicle Ground Guard [B42 SP + MP]"
+    },
+    {
+      "workshop": "3640602763",
+      "id": "Animal_Essentials",
+      "name": "[BETA] Animal Essentials [B42.14+]"
     },
     {
       "workshop": "3044422476",
@@ -1564,11 +1264,6 @@
       "name": "'93 Ford CF8000 Elgin Street Sweeper"
     },
     {
-      "workshop": "3008795514",
-      "id": "91geoMetro",
-      "name": "'91 Geo Metro"
-    },
-    {
       "workshop": "3287727378",
       "id": "92jeepYJ;92jeepYJJP18",
       "name": "'92 Jeep YJ Wrangler"
@@ -1584,11 +1279,6 @@
       "name": "'81 DeLorean DMC-12"
     },
     {
-      "workshop": "3670064951",
-      "id": "KI5campers",
-      "name": "Campers!"
-    },
-    {
       "workshop": "2971246021",
       "id": "99fordCVPI",
       "name": "'99 Ford Crown Victoria Police Interceptor"
@@ -1602,11 +1292,6 @@
       "workshop": "3258343790",
       "id": "68firebird",
       "name": "'68 Pontiac Firebird"
-    },
-    {
-      "workshop": "3088951320",
-      "id": "93fordTaurus",
-      "name": "'93 Ford Taurus"
     },
     {
       "workshop": "3320947974",
@@ -1634,11 +1319,6 @@
       "name": "'85 Chevrolet Step-Van"
     },
     {
-      "workshop": "3409287192",
-      "id": "84jeepXJ",
-      "name": "'84 Jeep XJ Cherokee"
-    },
-    {
       "workshop": "3213391371",
       "id": "75grandPrix",
       "name": "'75 Pontiac Grand Prix"
@@ -1662,11 +1342,6 @@
       "workshop": "3490370700",
       "id": "73fordFalcon;73fordFalconPS",
       "name": "'73 Ford Falcon"
-    },
-    {
-      "workshop": "2791656602",
-      "id": "fhqMotoriousZone;fhqMotoriousZoneImports;fhqMotoriousZoneExotics;fhqMotoriousZoneRealNames;fhqMotoriousZoneUSDM",
-      "name": "[B42/B41] The Motorious Zone Vehicle Pack"
     },
     {
       "workshop": "3447272250",
@@ -1749,11 +1424,6 @@
       "name": "'70 Ford Escort"
     },
     {
-      "workshop": "3478633453",
-      "id": "04vwTouran",
-      "name": "'04 Volkswagen Touran"
-    },
-    {
       "workshop": "2705655822",
       "id": "U.S.M113_APC_by_Papa_Chad",
       "name": "U.S. M113 APC by Papa_Chad"
@@ -1779,11 +1449,6 @@
       "name": "'96 Saturn S Series"
     },
     {
-      "workshop": "3622163276",
-      "id": "RVInteriorExpansionPart2",
-      "name": "RV Interior Expansion Part 2 [B42]"
-    },
-    {
       "workshop": "3652371248",
       "id": "lockMartM577",
       "name": "Lock-Mart Industries M577"
@@ -1794,24 +1459,9 @@
       "name": "U.S. M41 Walker Bulldog by Papa_Chad"
     },
     {
-      "workshop": "3521263771",
-      "id": "[J&G] Firefighter Uniform",
-      "name": "[J&G] Firefighter Uniform [B42/41]"
-    },
-    {
       "workshop": "3683878228",
       "id": "B42FRUsedCarsAnimAlpha;B42FRUsedCarsAnimTitle",
       "name": "[B42.19] Filibuster Rhymes' Certified Used Cars"
-    },
-    {
-      "workshop": "2841969842",
-      "id": "fhqHotPursuit;fhqHotPursuitRealNames",
-      "name": "[B42/B41] Motorious Zone - Hot Pursuit Add-on"
-    },
-    {
-      "workshop": "3614959302",
-      "id": "RVmilitaryaddon",
-      "name": "RV Military Addon [B42]"
     },
     {
       "workshop": "3661387277",
@@ -1839,11 +1489,6 @@
       "name": "More KI5 Trailer Skins (Bubby's Variants)"
     },
     {
-      "workshop": "3664207077",
-      "id": "FRCert_RVsOnly_B42",
-      "name": "[B42.20] True RVs Only"
-    },
-    {
       "workshop": "3464551542",
       "id": "FunctionalCarLift",
       "name": "Functional Car Lift"
@@ -1854,11 +1499,6 @@
       "name": "'88 Chevrolet S10 - Rust Edition"
     },
     {
-      "workshop": "3662733002",
-      "id": "KI5trailersRusty",
-      "name": "Trailers! - Rust Edition"
-    },
-    {
       "workshop": "3655738523",
       "id": "91fordLTDRusty",
       "name": "'91 Ford LTD Crown Victoria - Rust Edition"
@@ -1867,41 +1507,6 @@
       "workshop": "3662731107",
       "id": "70barracudaRusty",
       "name": "'70 Plymouth Barracuda - Rust Edition"
-    },
-    {
-      "workshop": "3658338529",
-      "id": "85chevyStepVanexpandedRusty;85chevyStepVanRusty",
-      "name": "'85 Chevrolet Step-Van - Rust Edition"
-    },
-    {
-      "workshop": "2837923608",
-      "id": "PertsPartyTiles",
-      "name": "PertsPartyTiles"
-    },
-    {
-      "workshop": "2852704777",
-      "id": "simonMDsTiles",
-      "name": "Simon MDs Tiles [B41/B42]"
-    },
-    {
-      "workshop": "3628736763",
-      "id": "UnofficialMappersCommunityTilePack",
-      "name": "Community Tile Pack"
-    },
-    {
-      "workshop": "3046728955",
-      "id": "tikitown_tiles",
-      "name": "Drazion's Tilepack"
-    },
-    {
-      "workshop": "3610677934",
-      "id": "HBVCEFb42;HBTacReload",
-      "name": "[41/42.21MP] Visible Casing Ejection Framework - Hot Brass"
-    },
-    {
-      "workshop": "3689524052",
-      "id": "LTWB42",
-      "name": "Legendary Tactical Weapons"
     },
     {
       "workshop": "3677017550",
@@ -1919,36 +1524,6 @@
       "name": "(B42) Hardwood's Swat Pack"
     },
     {
-      "workshop": "3652008781",
-      "id": "ExtraBombs2",
-      "name": "ExtraBombs 2"
-    },
-    {
-      "workshop": "3474469914",
-      "id": "BanditsFrockin",
-      "name": "[B42] Bandits Expansion Pack"
-    },
-    {
-      "workshop": "3569158406",
-      "id": "TacticalSheathsReborn",
-      "name": "[42.20MP] Tactical Sheaths Reborn"
-    },
-    {
-      "workshop": "3682076457",
-      "id": "NikLeverActionAnimset",
-      "name": "Lever-Action Animations [B42.19]"
-    },
-    {
-      "workshop": "3678008607",
-      "id": "HB_BLADESMIK05PS",
-      "name": "HalfBreed Blades: Medium Infantry Knife"
-    },
-    {
-      "workshop": "3673625916",
-      "id": "DOORS91",
-      "name": "DOOR OS 91 - SURVIVAL PACK 01"
-    },
-    {
       "workshop": "3646787580",
       "id": "ThumpingAttractsZombies",
       "name": "[B41/B42+] Thumping Attracts Zombies"
@@ -1964,34 +1539,14 @@
       "name": "'82 Oshkosh M911 + Military Semi-Trailers"
     },
     {
-      "workshop": "2423906082",
-      "id": "BCGTools",
-      "name": "Bushcraft Gear - Tools [B41/B42]"
-    },
-    {
       "workshop": "2553809727",
       "id": "KillCount",
       "name": "KillCount"
     },
     {
-      "workshop": "2432621382",
-      "id": "BCGRareWeapons",
-      "name": "Bushcraft Gear - Rare Weapons [B41/B42]"
-    },
-    {
       "workshop": "2903771337",
       "id": "REORDER_THE_HOTBAR",
       "name": "Reorder The Hotbar [DISCONTINUED]"
-    },
-    {
-      "workshop": "2463499011",
-      "id": "42Grapeseed",
-      "name": "Grapeseed [B42 Unstable Remake]"
-    },
-    {
-      "workshop": "515555911",
-      "id": "MoreBuilds",
-      "name": "More Builds"
     },
     {
       "workshop": "2785549133",
@@ -2009,19 +1564,9 @@
       "name": "Braven's Utilities"
     },
     {
-      "workshop": "3812024929",
-      "id": "92vwGolfMk2",
-      "name": "'92 Volkswagen Golf Mk2"
-    },
-    {
       "workshop": "2845952197",
       "id": "SimpleReadWhileWalking41",
       "name": "Read While Walking"
-    },
-    {
-      "workshop": "2844685624",
-      "id": "TryhonestyTiles",
-      "name": "TryHonesty's Tiles B41 & B42"
     },
     {
       "workshop": "2725360009",
@@ -2059,11 +1604,6 @@
       "name": "Sleep with Friends v2.1"
     },
     {
-      "workshop": "2324223029",
-      "id": "Tactical Weapons",
-      "name": "[HOTFIX for B42.13] Tactical Weapons"
-    },
-    {
       "workshop": "2207282444",
       "id": "AuthenticAnimations",
       "name": "Authentic Animations"
@@ -2074,24 +1614,9 @@
       "name": "Rebalanced Prop Moving"
     },
     {
-      "workshop": "2850935956",
-      "id": "SM4BootsExpandedB42;SM4BootsExpandedB42VanillaONLY;SM4BootsExpandedFlatshoes",
-      "name": "Boots Expanded 11 for B41 and B42"
-    },
-    {
       "workshop": "2835852387",
       "id": "Disassemble Container With Items",
       "name": "Disassemble Container With Items"
-    },
-    {
-      "workshop": "3722064198",
-      "id": "SWMG",
-      "name": "[42.21MP] Gunworks Framework"
-    },
-    {
-      "workshop": "2843855721",
-      "id": "CytU1550L",
-      "name": "'90 Mercedes-Benz Unimog U1550L"
     },
     {
       "workshop": "2674541310",
@@ -2129,11 +1654,6 @@
       "name": "Target Square: On Load Commands"
     },
     {
-      "workshop": "2815966702",
-      "id": "RabbitHashKY",
-      "name": "Rabbit Hash, KY [B42+ Update]"
-    },
-    {
       "workshop": "2851764922",
       "id": "SearchModeAPI41",
       "name": "SearchModeAPI"
@@ -2147,11 +1667,6 @@
       "workshop": "2975204120",
       "id": "NepEngineColor",
       "name": "Nepenthe's Colored Engine Status (Now a vanilla feature in B42)"
-    },
-    {
-      "workshop": "3722134990",
-      "id": "GunsOfMarz",
-      "name": "[42.21MP] GoM - Guns of Marz"
     },
     {
       "workshop": "2788256295",
@@ -2199,11 +1714,6 @@
       "name": "Stairs Alert"
     },
     {
-      "workshop": "2847911733",
-      "id": "ClothesBoxRedux",
-      "name": "ClothesBox Redux"
-    },
-    {
       "workshop": "2719850086",
       "id": "CapacityLimitBypass",
       "name": "[42.20] Customizable Containers"
@@ -2239,19 +1749,9 @@
       "name": "Standardized Vehicle Upgrades 3 - Vanilla Addon"
     },
     {
-      "workshop": "2849455153",
-      "id": "SpecialEmergencyVehicles",
-      "name": "[41/42/MP]Special Emergency Vehicles & FBI for Filibuster Rhymes' Used Cars!"
-    },
-    {
       "workshop": "3409472393",
       "id": "rSemiTruck;rSemiTruckhM911",
       "name": "W900 Semi-Truck [B42]"
-    },
-    {
-      "workshop": "3162566044",
-      "id": "DG_MIVehicles",
-      "name": "[B41/B42] More Immersive Vehicles"
     },
     {
       "workshop": "3035031408",
@@ -2354,11 +1854,6 @@
       "name": "Vehicle Tweaker API"
     },
     {
-      "workshop": "3197857648",
-      "id": "P4Decoholic",
-      "name": "Decoholic"
-    },
-    {
       "workshop": "3459887404",
       "id": "BuildingCraft",
       "name": "Building Craft"
@@ -2409,11 +1904,6 @@
       "name": "Handlebar's Preppers [Build 42.20 Stable]"
     },
     {
-      "workshop": "2795036124",
-      "id": "MorePlushies",
-      "name": "More Plushies"
-    },
-    {
       "workshop": "2781895054",
       "id": "SprinterAE86",
       "name": "[B42] Sprinter Trueno AE86"
@@ -2422,11 +1912,6 @@
       "workshop": "2809058492",
       "id": "93lorevehiclepack",
       "name": "1993 American Vehicle Pack (BUILD .41/.42 Pre Multiplayer)"
-    },
-    {
-      "workshop": "2618566294",
-      "id": "MattSimpleAddonsFriuts",
-      "name": "Wild Fruits"
     },
     {
       "workshop": "3389448389",
@@ -2449,11 +1934,6 @@
       "name": "Gas Pump Indicator"
     },
     {
-      "workshop": "3058279917",
-      "id": "gamenight;gamenight_Catan;gamenight_Monopoly;gamenight_Uno",
-      "name": "Game Night"
-    },
-    {
       "workshop": "2881764317",
       "id": "hideVanillaReadIcon;KnownAndCollected",
       "name": "Known And Collected"
@@ -2467,16 +1947,6 @@
       "workshop": "3407042038",
       "id": "ATA_Jeep;ATA_Jeep_x10;ATA_Jeep_x2;ATA_Jeep_x4",
       "name": "Autotsar Tuning Atelier - Jaap Wrungel [B42]"
-    },
-    {
-      "workshop": "3788499078",
-      "id": "JaapWrungelCrafting",
-      "name": "[B42] Jaap Wrungel Crafting"
-    },
-    {
-      "workshop": "2799152712",
-      "id": "sDayZ.MinimalDisplayBars42",
-      "name": "sDayZ - New Icons And Preset"
     },
     {
       "workshop": "3457132019",
@@ -2539,11 +2009,6 @@
       "name": "Functional Clothesline"
     },
     {
-      "workshop": "2965943353",
-      "id": "2965943353 \\ BetterSatchel",
-      "name": "Better Satchel"
-    },
-    {
       "workshop": "3613917826",
       "id": "PlaceAnywhereMod",
       "name": "Place Anywhere"
@@ -2564,11 +2029,6 @@
       "name": "1993 Mazda RX-7 (JM1FD) USDM [B42/41]"
     },
     {
-      "workshop": "1436878551",
-      "id": "Defecation",
-      "name": "Defecation v3.59 (Build 42.20mp+)"
-    },
-    {
       "workshop": "3397207461",
       "id": "Run and Reload",
       "name": "Run and Reload [B42]"
@@ -2577,11 +2037,6 @@
       "workshop": "3173649443",
       "id": "P4MedicalMeister",
       "name": "Medical Meister"
-    },
-    {
-      "workshop": "2734164805",
-      "id": "parc;P.A.R.C.PROJECT.CHERNORUSSIA;P.A.R.C.SOVIET.RETEXTURES.AND.DECALS",
-      "name": "P.A.R.C Pack All Russians Cars"
     },
     {
       "workshop": "3488600400",
@@ -2602,11 +2057,6 @@
       "workshop": "2211423190",
       "id": "AxesRecrafting",
       "name": "Axe's Recrafting [B42]"
-    },
-    {
-      "workshop": "3747202678",
-      "id": "MWPWeaponsB42",
-      "name": "[B42] Madax Weapons Pack - Fixed 42.21"
     },
     {
       "workshop": "2642486124",
@@ -2644,24 +2094,9 @@
       "name": "Fiat Fiorino 1992 [B42.13 & B41]"
     },
     {
-      "workshop": "3417502641",
-      "id": "Makedriedfruit",
-      "name": "[B42.2*] Make Dried Fruit"
-    },
-    {
       "workshop": "2983905789",
       "id": "WanderingZombies",
       "name": "Wandering Zombies"
-    },
-    {
-      "workshop": "3717902500",
-      "id": "JB_BugsInLights",
-      "name": "JB's Bugs In Lights [B42]"
-    },
-    {
-      "workshop": "2677920531",
-      "id": "SoulFilchersForagingTime",
-      "name": "Soul Filcher's Foraging Time"
     },
     {
       "workshop": "3590950467",
@@ -2694,11 +2129,6 @@
       "name": "Efficiency Skill Mod 2"
     },
     {
-      "workshop": "3762296152",
-      "id": "CompanionDogsRottweiler",
-      "name": "CD: Rottweiler"
-    },
-    {
       "workshop": "3753700423",
       "id": "PZ_Pulse",
       "name": "PZ Pulse"
@@ -2717,11 +2147,6 @@
       "workshop": "2747517727",
       "id": "ClothingBasedOnOccupation",
       "name": "[B42] Spawn with items and clothing by occupation"
-    },
-    {
-      "workshop": "3404348394",
-      "id": "TTRPPosesB42",
-      "name": "[B42] TTRP Poses"
     },
     {
       "workshop": "3501302358",
@@ -2752,11 +2177,6 @@
       "workshop": "2965124692",
       "id": "tsarslibAVCSCompatibilityPatch",
       "name": "Tsar's Common Library & AVCS Compatibility Patch"
-    },
-    {
-      "workshop": "3418061837",
-      "id": "Makedriedvegetable",
-      "name": "[B42.2*] Make Dried Vegetables"
     },
     {
       "workshop": "3409527910",
@@ -2799,16 +2219,6 @@
       "name": "Lean & Lie"
     },
     {
-      "workshop": "3661164291",
-      "id": "MedievalZ",
-      "name": "[B42.20] Medieval Z"
-    },
-    {
-      "workshop": "3694705423",
-      "id": "OujinjinTiles;OujinjinTilesV2",
-      "name": "Oujinjin's Tile Pack B42 Overhaul"
-    },
-    {
       "workshop": "3799732653",
       "id": "83gmcGseriesVans;83gmcVanduraATeam",
       "name": "'83 GMC G-Series Vans"
@@ -2819,19 +2229,9 @@
       "name": "[B42/B41] Porsche 918 Spyder"
     },
     {
-      "workshop": "3770795385",
-      "id": "CompanionDogsDoberman",
-      "name": "CD: Doberman"
-    },
-    {
       "workshop": "3427382678",
       "id": "MoreVarietyLoot",
       "name": "More Variety Loot [B42/B41]"
-    },
-    {
-      "workshop": "2860974747",
-      "id": "DonazosFisticuffs",
-      "name": "Donazo's Fine Fisticuffs [42!!/41]"
     },
     {
       "workshop": "3394609418",
@@ -2842,11 +2242,6 @@
       "workshop": "2819367991",
       "id": "ChunkList",
       "name": "[B41 / B42.15+] Chunk list tool"
-    },
-    {
-      "workshop": "2895585037",
-      "id": "CollectibleCarsfhq",
-      "name": "Collectible Die Cast Cars"
     },
     {
       "workshop": "3598575779",
@@ -2939,11 +2334,6 @@
       "name": "Not Useless Things [B42]"
     },
     {
-      "workshop": "2868828908",
-      "id": "JWJ",
-      "name": "Jumpsuit with jacket [B42MP/SP]"
-    },
-    {
       "workshop": "2859508566",
       "id": "ExtraBooks",
       "name": "Extra Books (B41 + B42) [Loot tables update]"
@@ -2954,11 +2344,6 @@
       "name": "Starving Zombies [B42]"
     },
     {
-      "workshop": "2944740659",
-      "id": "Cuffs",
-      "name": "Handcuffs (Works with Prisonner Mod)"
-    },
-    {
       "workshop": "2290459371",
       "id": "VehicleDoorsHotkey",
       "name": "Vehicle Doors Hotkey"
@@ -2967,11 +2352,6 @@
       "workshop": "3739168410",
       "id": "Obvious_Skill_Tapes",
       "name": "Obvious Skill Tapes - highlight useful VHS tapes"
-    },
-    {
-      "workshop": "3432006285",
-      "id": "Makefruitinjar",
-      "name": "[B42.2*] Fruits in jars"
     },
     {
       "workshop": "3432014439",
@@ -2997,11 +2377,6 @@
       "workshop": "3432015133",
       "id": "ATA_VanDeRumba",
       "name": "Autotsar Tuning Atelier - DeRumba Van v.2.00 [B42]"
-    },
-    {
-      "workshop": "3414047248",
-      "id": "BetterBeltsB42",
-      "name": "[42.20+]BetterBeltsB42"
     },
     {
       "workshop": "3402789975",
@@ -3049,19 +2424,9 @@
       "name": "Michonne's Katana"
     },
     {
-      "workshop": "3488891189",
-      "id": "BuildingCraftErikastiles",
-      "name": "BuildingCraft - Erika's tiles"
-    },
-    {
       "workshop": "3781616141",
       "id": "CarRoofFix",
       "name": "[B42.20+] Vehicle Aim Roof Fix"
-    },
-    {
-      "workshop": "3701820916",
-      "id": "odz_gasmaskM40_replacer",
-      "name": "[B41/B42] Gas Mask Replacement"
     },
     {
       "workshop": "3494474677",
@@ -3079,11 +2444,6 @@
       "name": "Soul Filcher's Learning Time"
     },
     {
-      "workshop": "3397182976",
-      "id": "RandomClothing",
-      "name": "Random Clothing [B41/B42.20]"
-    },
-    {
       "workshop": "3611100835",
       "id": "LIAZ 300",
       "name": "LIAZ 300"
@@ -3094,19 +2454,9 @@
       "name": "Fancy Handwork B42.20"
     },
     {
-      "workshop": "2836541309",
-      "id": "SlayerArsenal",
-      "name": "Zombie Slayer Arsenal [B42]"
-    },
-    {
       "workshop": "3816442251",
       "id": "ViewpointLivingProps",
       "name": "Viewpoint: Living Props"
-    },
-    {
-      "workshop": "3392640262",
-      "id": "w_animatedcanmodels",
-      "name": "Wesch's Animated Can Models 42.20"
     },
     {
       "workshop": "3806955469",
@@ -3117,11 +2467,6 @@
       "workshop": "2908846234",
       "id": "FBR",
       "name": "[B42/B41]Fire Damage Rebalance"
-    },
-    {
-      "workshop": "3779327129",
-      "id": "CompanionDogsLabrador",
-      "name": "CD: Labrador"
     },
     {
       "workshop": "2926995676",
@@ -3169,21 +2514,6 @@
       "name": "Vanilla Muzzleflash Enhanced"
     },
     {
-      "workshop": "3814073243",
-      "id": "ZombieVisibilityFix",
-      "name": "Zombie Visibility Fix + Stair-O-Vision"
-    },
-    {
-      "workshop": "3591708775",
-      "id": "JB_Fireflys",
-      "name": "JB's Fireflies - B41 and B42 + MP"
-    },
-    {
-      "workshop": "3736154771",
-      "id": "LiuDing_Tiles",
-      "name": "LiuDing_Tiles"
-    },
-    {
       "workshop": "3710913197",
       "id": "MiniHealthPlus",
       "name": "Mini Health Plus"
@@ -3197,11 +2527,6 @@
       "workshop": "3447775367",
       "id": "Drink_Smart",
       "name": "Drink Smart [B42]"
-    },
-    {
-      "workshop": "3597673472",
-      "id": "LongTermPreservationExtended",
-      "name": "Long Term Preservation Extended [42.20+]"
     },
     {
       "workshop": "3088039065",
@@ -3224,16 +2549,6 @@
       "name": "Neat Lockpicking"
     },
     {
-      "workshop": "3665548194",
-      "id": "LEGION18",
-      "name": "Legion Weaponry"
-    },
-    {
-      "workshop": "2940908294",
-      "id": "2940908294/firegastrail",
-      "name": "B42/41 Fire trail of fuel v1.9 - pour gasoline action"
-    },
-    {
       "workshop": "3389681224",
       "id": "ClimbWall",
       "name": "Climb"
@@ -3242,11 +2557,6 @@
       "workshop": "3780298456",
       "id": "BritasArmorPackB42",
       "name": "Brita's Armor Pack B42.20+ | Standalone Armor Port & Multilingual Fixes"
-    },
-    {
-      "workshop": "3651242585",
-      "id": "NWMF1",
-      "name": "N.W.M.F. Weaponry"
     },
     {
       "workshop": "3817413313",
@@ -3259,16 +2569,6 @@
       "name": "ForkLift"
     },
     {
-      "workshop": "3549794747",
-      "id": "low_profile_glassis",
-      "name": "Eyewear rework project [B42]"
-    },
-    {
-      "workshop": "1542069453",
-      "id": "Torch",
-      "name": "Torch [B41 / B42]"
-    },
-    {
       "workshop": "3414409419",
       "id": "FRCB42",
       "name": "Faster Cloth Ripping  + Rip all [42.20]"
@@ -3277,11 +2577,6 @@
       "workshop": "3470852353",
       "id": "ImprovedFarmingInfoWindow",
       "name": "[B42/41] Improved Farming Info Window"
-    },
-    {
-      "workshop": "3379175852",
-      "id": "KATTAJ1_Service_Uniform",
-      "name": "KATTAJ1 Army Service Uniform and Rank Patches [B41/42MP]"
     },
     {
       "workshop": "3286593534",
@@ -3302,11 +2597,6 @@
       "workshop": "3453879909",
       "id": "KickScooterMod",
       "name": "[B42] Kick Scooter!"
-    },
-    {
-      "workshop": "2730784492",
-      "id": "ScrapSmith",
-      "name": "[B42 Stable] ScrapSmith Medieval Weapons and Armor (3.1.5)"
     },
     {
       "workshop": "3399660368",
@@ -3349,11 +2639,6 @@
       "name": "U.S. M60A3 by Papa_Chad"
     },
     {
-      "workshop": "3429176285",
-      "id": "campintherain",
-      "name": "Camp in the Rain [B42]"
-    },
-    {
       "workshop": "3389606570",
       "id": "Jump",
       "name": "Jump"
@@ -3369,11 +2654,6 @@
       "name": "Light Fix - Project Viewpoint"
     },
     {
-      "workshop": "3418701509",
-      "id": "Mad Crafter",
-      "name": "Mad Crafter [B42]"
-    },
-    {
       "workshop": "3739173520",
       "id": "PIP",
       "name": "Plysken Irrigation Pipes"
@@ -3384,24 +2664,9 @@
       "name": "[B42] eris food expiry"
     },
     {
-      "workshop": "3287288815",
-      "id": "HNDLBR_VintageCamos",
-      "name": "Handlebar's Vintage Camos"
-    },
-    {
-      "workshop": "3759558202",
-      "id": "Clover Lake;Clover Lake Highway KY-316",
-      "name": "Clover Lake (Homestead & Cottage)"
-    },
-    {
       "workshop": "3392699932",
       "id": "AutoLoot",
       "name": "Auto Loot"
-    },
-    {
-      "workshop": "2706426546",
-      "id": "DangerZoneDualWield",
-      "name": "Danger Zone Dual Wield"
     },
     {
       "workshop": "3053929034",
@@ -3422,11 +2687,6 @@
       "workshop": "3017359186",
       "id": "MM2PursuitSpecial",
       "name": "[B42/B41] Mad Max 2 Pursuit Special"
-    },
-    {
-      "workshop": "3812616893",
-      "id": "ViewpointUI",
-      "name": "Viewpoint - Interface"
     },
     {
       "workshop": "3667553980",
@@ -3452,11 +2712,6 @@
       "workshop": "3412003257",
       "id": "ATT_Hauler",
       "name": "Autotsar Trailers - Hauler [B42]"
-    },
-    {
-      "workshop": "1926311864",
-      "id": "ClearingTime",
-      "name": "Soul Filcher's Clearing Time"
     },
     {
       "workshop": "3381815115",
@@ -3499,16 +2754,6 @@
       "name": "Easy Distributions API"
     },
     {
-      "workshop": "3243805556",
-      "id": "TNFPFirearmsPatch;TNFPB42;TNFP",
-      "name": "Totally's NATO and Commonwealth Firearms Pack [Updated to B42.20!!!]"
-    },
-    {
-      "workshop": "3292952993",
-      "id": "ActualClassicalWatches",
-      "name": "Actual Classical Watches"
-    },
-    {
       "workshop": "3444943638",
       "id": "GetUpQuick",
       "name": "Get Up Quick"
@@ -3522,11 +2767,6 @@
       "workshop": "2930762705",
       "id": "KeyBlank",
       "name": "KeyBlank"
-    },
-    {
-      "workshop": "3722136144",
-      "id": "PostSovietArmoryB42",
-      "name": "[B42] Post Soviet Armory"
     },
     {
       "workshop": "3411695932",
@@ -3552,11 +2792,6 @@
       "workshop": "3773972040",
       "id": "ArcadiaRVInterior_B42_MP",
       "name": "Arcadia RV Interiors [B42.20]"
-    },
-    {
-      "workshop": "3580511016",
-      "id": "SCP_Foundation_Pack",
-      "name": "SCP - Foundation pack"
     },
     {
       "workshop": "3792740760",
@@ -3607,21 +2842,6 @@
       "workshop": "2923554542",
       "id": "ExpRecovery",
       "name": "Exp Recovery for Skill Books"
-    },
-    {
-      "workshop": "2740991142",
-      "id": "StrikeSniperOperator",
-      "name": "darlak's Full Ghillie Sniper Operator [B41/B42]"
-    },
-    {
-      "workshop": "2961450523",
-      "id": "TEBFP",
-      "name": "[B42.20 SP/MP] Totally's Eastern Bloc Firearms Pack"
-    },
-    {
-      "workshop": "2673329292",
-      "id": "EGNHInuman",
-      "name": "EGNH Inuman Alcohol Pack"
     },
     {
       "workshop": "3734168173",
@@ -3684,11 +2904,6 @@
       "name": "Craftable Sledgehammer"
     },
     {
-      "workshop": "3716934959",
-      "id": "playable_pool",
-      "name": "Playable Minigames (Previously Playable Pool)"
-    },
-    {
       "workshop": "3819166046",
       "id": "isometricnomore",
       "name": "Project Viewpoint - Isometric No More"
@@ -3697,11 +2912,6 @@
       "workshop": "3799050151",
       "id": "moreTraitsDefinitive",
       "name": "More Traits Definitive Edition"
-    },
-    {
-      "workshop": "2856740739",
-      "id": "fhqMotoriousPosters",
-      "name": "[B42/B41] Car Posters of the Motorious Zone"
     },
     {
       "workshop": "3196111875",
@@ -3724,19 +2934,9 @@
       "name": "Autotsar Tuning Atelier - Fjord Mustard '66 [B42]"
     },
     {
-      "workshop": "3399505732",
-      "id": "SmallTownsSpawnLocations",
-      "name": "[B42] Small Towns Spawn Locations"
-    },
-    {
       "workshop": "3156717975",
       "id": "SkillRecoveryJournalReminder",
       "name": "[42.20] Skill Recovery Journal Reminder"
-    },
-    {
-      "workshop": "3429308511",
-      "id": "MKI_B42",
-      "name": "[B42] Doomsday MotorHome"
     },
     {
       "workshop": "3635921724",
@@ -3744,29 +2944,14 @@
       "name": "Show Weapon Stats Plus [42.20]"
     },
     {
-      "workshop": "3019743131",
-      "id": "1988renaultFuego;1988renaultFuegoSport;1988renaultFuegoTuning",
-      "name": "Renault Fuego GTX II - 1988 [B42.13 & B41]"
-    },
-    {
       "workshop": "3818859807",
       "id": "BasileDoors3D",
       "name": "Project Viewpoint - 3D Doors, Gates & Garages"
     },
     {
-      "workshop": "2949818236",
-      "id": "darkPatches",
-      "name": "Darker Clothing Patches"
-    },
-    {
       "workshop": "3820965001",
       "id": "VisceralViewpoint",
       "name": "Viewpoint - Visceral"
-    },
-    {
-      "workshop": "2999992561",
-      "id": "AssolutoBisontefhq;AssolutoBisonteUniqueParts",
-      "name": "[B42/B41] Assoluto Bisonte (R4)"
     },
     {
       "workshop": "3736629791",
@@ -3779,19 +2964,9 @@
       "name": "Eat Smart"
     },
     {
-      "workshop": "3411580812",
-      "id": "Gelevator",
-      "name": "Gun's Elevator mod"
-    },
-    {
       "workshop": "3566330206",
       "id": "[B42]Chevrolet Corvette C6",
       "name": "[B42] Chevrolet Corvette C6"
-    },
-    {
-      "workshop": "3422869729",
-      "id": "w_emptycanmodels",
-      "name": "Wesch's Empty Can Models"
     },
     {
       "workshop": "2980114616",
@@ -3814,19 +2989,9 @@
       "name": "Fiat 600 1970 (Seat 600 / Zastava 750) [B42.13 & B41]"
     },
     {
-      "workshop": "3797158241",
-      "id": "mpeBugattiEB110",
-      "name": "Bugatti EB110 Patched B42 - 42.20.4+"
-    },
-    {
       "workshop": "3573232324",
       "id": "twisttrapping",
       "name": "TwisTonFire - Better Trapping"
-    },
-    {
-      "workshop": "3677600363",
-      "id": "Muldraugh-Checkpoint",
-      "name": "Muldraugh-Military checkpoint -Overpass (B42)"
     },
     {
       "workshop": "3138387399",
@@ -3847,11 +3012,6 @@
       "workshop": "3812984535",
       "id": "ViewpointImmersiveEffects",
       "name": "Viewpoint - Immersive Effects"
-    },
-    {
-      "workshop": "3773858287",
-      "id": "B42RainsFirearmsAndGunParts4220",
-      "name": "B42 Rain's Firearms & Gun Parts"
     },
     {
       "workshop": "3519087048",
@@ -3877,16 +3037,6 @@
       "workshop": "3494108029",
       "id": "SmartRadialMenu",
       "name": "Smart Radial Menu [B42 Stable]"
-    },
-    {
-      "workshop": "3820158673",
-      "id": "GridRVHost;GridRV;DaleChieftainRV",
-      "name": "Viewpoint - 3D RVs [B42.21] [WIP]"
-    },
-    {
-      "workshop": "3717809483",
-      "id": "Antique Swords",
-      "name": "[B42] Antique Swords"
     },
     {
       "workshop": "3459875383",
@@ -3984,11 +3134,6 @@
       "name": "[COS] Clipping animation Fix"
     },
     {
-      "workshop": "3472334215",
-      "id": "Post Apocalyptic Weapons",
-      "name": "[B42] Post Apocalyptic Weapons"
-    },
-    {
       "workshop": "3756687957",
       "id": "Where_My_Sledgies_At",
       "name": "Where My Sledgies At?"
@@ -4012,11 +3157,6 @@
       "workshop": "3407791878",
       "id": "DrivingSkill",
       "name": "Driving Skill [B42]"
-    },
-    {
-      "workshop": "3775744177",
-      "id": "JestersGunPack",
-      "name": "[B42 Stable] Jester's Gun Pack"
     },
     {
       "workshop": "3715296334",
